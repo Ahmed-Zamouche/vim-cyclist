@@ -1,0 +1,21 @@
+================================================================================
+                                                                  *cyclist.nvim*
+
+cyclist.nvim is a plugin for demo purpose. Development is in progress.
+
+To find out more:
+https://github.com/az1919/cyclist.nvim
+
+  :h Cyclist
+
+CyclistNext                                                        *CyclistNext*
+    Select next listchars
+CyclistPrev                                                        *CyclistPrev*
+    Select previous listchars
+CyclistActivate {opt_name=default}                             *CyclistActivate*
+    Activate previous listchars
+CyclistOptNames                                                *CyclistOptNames*
+    Get names of listchars
+
+================================================================================
+
